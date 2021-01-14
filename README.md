@@ -8,3 +8,4 @@ This repository contains information gathered for an High Performance Computing 
 ### [Monitoring I/O on HPC](https://github.com/sakshatshinde/CDAC-info-library/blob/master/Monitoring%20IO%20on%20HPC.pdf)
 ### [Reference Doc for I/O Tools](https://github.com/sakshatshinde/CDAC-info-library/blob/master/Reference%20Doc%20for%20I_O%20Tools.pdf)
 ### [SSD benchmarking intro](https://github.com/sakshatshinde/CDAC-info-library/blob/master/SSD%20benchmarking%20intro.pdf)
+### [copyright_CDAC](https://github.com/sakshatshinde/CDAC-info-library/blob/master/copyright_CDAC.pdf)
